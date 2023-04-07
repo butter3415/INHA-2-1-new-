@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8717045e-dd03-44d3-b204-4e651c106616" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Settings/Evolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Settings/Evolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/PokemonGO_230401.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Action/Attack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/DataBase/DBManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/DataBase/DBMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/DataBase/PokemonForDBSaveDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/GameDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/Pokemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level1/Ggobugi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level1/IsanghaeSeed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level1/Pairi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level2/Anibugi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level2/IsanghaeGrass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level2/Lizard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level3/GgobuckKing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level3/IsanghaeFlower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Pokemons/level3/Lizamong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Settings/ChooseMyPokemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Settings/Evolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Settings/OwnerSetting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Settings/PokemonListSetting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Settings/ShowUseSkills.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Trip/Adventure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Trip/Badge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Trip/Gym.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/out/production/PokemonGO_230401/Trip/PokemonBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Action/Attack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/DataBase/DBManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/DataBase/DBMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/DataBase/PokemonForDBSaveDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/GameDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level1/Ggobugi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level1/IsanghaeSeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level1/Pairi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level2/Anibugi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level2/IsanghaeGrass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level2/Lizard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level3/GgobuckKing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level3/IsanghaeFlower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Pokemons/level3/Lizamong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Settings/ChooseMyPokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Settings/Evolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Settings/OwnerSetting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Settings/PokemonListSetting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Settings/ShowUseSkills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Trip/Adventure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Trip/Badge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Trip/Gym.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGO_230401/src/Trip/PokemonBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Pokemon_myself/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Pokemon_myself/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2NpTDtCXyngQCWmvIcxPdi6p3dk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/82104/Desktop/2학년 1학기/객체지향프로그래밍2/Code/PokemonGO_230331/src",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8717045e-dd03-44d3-b204-4e651c106616" name="Changes" comment="" />
+      <created>1680359907727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680359907727</updated>
+      <workItem from="1680359908938" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

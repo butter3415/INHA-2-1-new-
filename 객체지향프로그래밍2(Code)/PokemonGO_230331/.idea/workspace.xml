@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfc59fd1-2041-4c28-aaf0-830eb3a63730" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DBStudy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DBStudy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBStudy/DBtest/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DBStudy/DBtest/DBManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DBStudy/src/program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Settings/Evolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Settings/Evolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/PokemonGO_230401.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGO_230401/PokemonGO_230401.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/DataBase/DBManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/DataBase/DBMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/DataBase/PokemonForDBSaveDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/GameDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/GameDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/Trip/Adventure.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGO_230401/out/production/PokemonGO_230401/Trip/Adventure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/src/DataBase/DBManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/src/DataBase/DBMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/src/DataBase/PokemonForDBSaveDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/src/GameDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGO_230401/src/GameDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGO_230401/src/Trip/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGO_230401/src/Trip/Adventure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pokemon_myself/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pokemon_myself/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2NoXElXKaoANm8ABq0t8u79cAJF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/82104/Desktop/2학년 1학기/객체지향프로그래밍2/Code/PokemonGO_230331",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc59fd1-2041-4c28-aaf0-830eb3a63730" name="Changes" comment="" />
+      <created>1680331301141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680331301141</updated>
+      <workItem from="1680331302342" duration="57000" />
+      <workItem from="1680359837425" duration="70000" />
+      <workItem from="1680360739412" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
