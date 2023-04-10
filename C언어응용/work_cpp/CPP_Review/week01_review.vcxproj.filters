@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Class_Circle.cpp">
+    <ClCompile Include="Class_Circle_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="memo.cpp">
@@ -46,6 +46,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Union.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Class_Circle_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
