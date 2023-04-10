@@ -136,6 +136,8 @@
     <ClCompile Include="pointerArray.cpp" />
     <ClCompile Include="pointerNConst.cpp" />
     <ClCompile Include="Struct.cpp" />
+    <ClCompile Include="Struct2.cpp" />
+    <ClCompile Include="sturct_LinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
