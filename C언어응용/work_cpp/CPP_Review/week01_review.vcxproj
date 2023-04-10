@@ -133,6 +133,7 @@
     <ClCompile Include="DataType.cpp" />
     <ClCompile Include="doublePointer.cpp" />
     <ClCompile Include="memo.cpp" />
+    <ClCompile Include="pointerArray.cpp" />
     <ClCompile Include="pointerNConst.cpp" />
     <ClCompile Include="Struct.cpp" />
   </ItemGroup>
