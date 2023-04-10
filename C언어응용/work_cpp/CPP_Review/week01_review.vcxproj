@@ -131,7 +131,9 @@
     <ClCompile Include="ArrayNPointer.cpp" />
     <ClCompile Include="Class_Circle.cpp" />
     <ClCompile Include="DataType.cpp" />
+    <ClCompile Include="doublePointer.cpp" />
     <ClCompile Include="memo.cpp" />
+    <ClCompile Include="pointerNConst.cpp" />
     <ClCompile Include="Struct.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
