@@ -51,7 +51,10 @@
     <ClCompile Include="Class_Circle_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="enum.cpp">
+    <ClCompile Include="enum1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="enum2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
