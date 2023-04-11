@@ -66,10 +66,13 @@
     <ClCompile Include="Function2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Circle3.cpp">
+    <ClCompile Include="file_Circle_main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="file_Circle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Lambda.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -129,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArrayNPointer.cpp" />
-    <ClCompile Include="Circle3.cpp" />
+    <ClCompile Include="file_Circle_main.cpp" />
     <ClCompile Include="Class_Circle_2.cpp" />
     <ClCompile Include="Class_Circle_1.cpp" />
     <ClCompile Include="DataType.cpp" />
@@ -139,6 +139,7 @@
     <ClCompile Include="file_Circle.cpp" />
     <ClCompile Include="Function.cpp" />
     <ClCompile Include="Function2.cpp" />
+    <ClCompile Include="Lambda.cpp" />
     <ClCompile Include="memo.cpp" />
     <ClCompile Include="pointerArray.cpp" />
     <ClCompile Include="pointerNConst.cpp" />

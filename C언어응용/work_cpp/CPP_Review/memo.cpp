@@ -1,143 +1,70 @@
-//#include "circle.h"
-//#include "circle.h"
+//// Lambda Expression 람다 표현식(C++ 11, 14)
+//// [캡쳐블럭] (매개변수리스트) -> 리턴타입{함수 바디}
+//// 이름없는 함수를 매개변수로 다른 함수에 집어넣기도 함.
+//// 코드가 짧고 간결하다. 가독성도 높다
 //
-//void test() {
-//    cout << "Circle 5" << endl;
-//    Circle circle5(2.0);
-//    cout << "Circle 6" << endl;
-//    Circle circle6(circle5);
-//    cout << "반지름: " << circle6.getRadius() << endl;
-//    cout << Circle::getCount() << "\n";
-//}
-//int main()
-//{
-//    cout << Circle::getCount() << "\n";
-//    cout << Circle::getCount() << "\n";
-//    cout << "Circle 3" << endl;
-//    Circle circle3(5.0);
-//
-//    cout << "Circle 1" << endl;
-//    Circle circle1;
-//    cout << "반지름: " << circle1.getRadius() << endl;
-//    circle1.setRadius(10.0);
-//
-//    cout << Circle::getCount() << "\n";
-//    test();
-//    cout << Circle::getCount() << "\n";
-//
-//    cout << "반지름: " << circle1.getRadius() << endl;
-//    cout << "넓이: " << circle1.getArea() << endl;
-//    cout << "둘레: " << circle1.getPerimeter() << endl << endl;
-//
-//    cout << "Circle 2" << endl;
-//    Circle circle2;
-//    circle2.setRadius(20.0);
-//    cout << "반지름: " << circle2.getRadius() << endl;
-//    cout << "넓이: " << circle2.getArea() << endl;
-//    cout << "둘레: " << circle2.getPerimeter() << "\n";
-//
-//    cout << "Circle 4" << endl;
-//    Circle circle4(circle2);
-//    cout << "반지름: " << circle4.getRadius() << endl;
-//
-//    cout << Circle::getCount() << "\n";
-//    return 0;
-//}
-//
-//#include "circle.h"
-//
-//// 빌트인 라이브러리 -> < >
-//// 사용자 정의 클래스 -> " "
-//
-//int Circle::counts = 0;
-//
-//Circle::Circle() : radius(1.0) {
-//    counts++;
-//    cout << this << " 객체 생성(기본생성자)\n";
-//}
-///*
-//Circle::Circle() {
-//    radius = 1.0;
-//    cout << this << " 객체 생성(기본생성자)\n";
-//}
-//
-//Circle::Circle(double radius) {
-//    radius = radius;  // 멤버변수와 매개변수 구분 불가
-//    cout << this << " 객체 생성(매개변수생성자)\n";
-//}
-//
-//Circle::Circle(double radius) {
-//    this->radius = radius;
-//    cout << this << " 객체 생성(매개변수생성자)\n";
-//}
-//*/
-//Circle::Circle(double radius) : radius(radius) {
-//    counts++;
-//    cout << this << " 객체 생성(매개변수생성자)\n";
-//}
-///*
-//Circle::Circle(const Circle& c){
-//    radius = c.radius;
-//    cout << this << " 객체 생성(복사생성자)\n";
-//}
-//
-//Circle::Circle(const Circle& circle)
-//: radius(circle.radius){
-//    cout << this << " 객체 생성(복사생성자)\n";
-//}
-//*/
-//Circle::~Circle() {
-//    counts--;
-//    cout << this << " 객체 소멸. 내가 너를 기억하마!\n";
-//}
-//double Circle::getRadius() const
-//{
-//    int a = 9;
-//    //radius = 2.0;
-//    return radius;
-//}
-//double Circle::getArea() const
-//{
-//    const double PI = 3.14;
-//    return (PI * radius * radius);
-//}
-//double Circle::getPerimeter() const
-//{
-//    const double PI = 3.14;
-//    return (2 * PI * radius);
-//}
-//void Circle::setRadius(double value)
-//{
-//    radius = value;
-//}
-//int Circle::getCount() {
-//    return counts;
-//}
-
-////# pragma once
-//
-//
-//
-//// 클래스  (정의한 부분)
 //
 //#include <iostream>
 //using namespace std;
 //
-//class Circle
-//{
-//private:
-//    double radius;
-//    static int counts;
-//public:
-//    Circle(); // default constructor
-//    Circle(double radius); // parameter constructor
-//    //Circle(const Circle& circle); // copy constructor
-//    Circle(const Circle& circle) = delete;
+//int main() {
+//	[]() -> void {};
+//	[]() {};	// 리턴타입 생략 가능, 화살표 생략 가능
+//	[] {}; // 꼭 필요한건 캡쳐블럭, 함수바디
 //
-//    ~Circle(); // destructor
-//    double getRadius() const;
-//    double getArea() const;
-//    double getPerimeter() const;
-//    void setRadius(double value);
-//    static int getCount();
-//};
+//	//[] {cout << "Hi Lambda!" << endl; };	// 실행은 하지만 출력은 안됨.
+//
+//	//// 맨끝의 소괄호 쌍은 람다표현식을 즉시 실행시키는 역할
+// 
+//	//[] {cout << "Hi Lambda!" << endl; }();
+//
+//	//// 변수에 담아서 출력
+//	//auto inha = [] {cout << "Hi Lambda!" << endl; };
+//	//inha();
+//
+//	////auto inha = []() { return 5 * 10; };
+//	//cout << inha() << endl;
+//
+//	//// 값을 던져주고 처리하는 방식
+//	//auto inha = [](int a, int b) { return a * b; };
+//	//cout << inha(5, 10) << endl;
+//
+//	//// -> 사용하려면 리턴타입 명시해줘야 함.
+//	//auto inha = [](int a, int b) -> int { return a * b; };
+//	//cout << inha(5, 10) << endl;
+//
+//	//// 인수를 직접 입력하여 사용 가능
+//	//auto inha = [](int a, int b) -> int { return a + b; }(5, 10);
+//	//cout << inha << endl;
+//
+//	//auto inha = [](float a, int b) -> int { return a + b; };
+//	//cout << inha(7.7f, 2) << endl;	// 9 리턴
+//
+//	//auto inha = [](float a, int b) -> float { return a + b; };
+//	//cout << inha(7.7f, 2) << endl;	// 9.7 리턴
+//
+//	//auto inha = [](float a, int b) { return a + b; };
+//	//cout << inha(7.7f, 2) << endl;	// 9.7 리턴
+//
+//	// 캡쳐블록 : 바깥 변수를 이용 가능하도록 함
+//	//short c = 5, d = 7;
+//	//auto inha = [c, d](float a, int b) -> int {
+//	//	return a + b + c + d;
+//	//};
+//	//cout << inha(1.9, 2) << endl;	// 15 출력
+//
+//	//short c = 5, d = 7;
+//	//auto inha = [c, d](float a, int b) {
+//	//	return a + b + c + d;
+//	//};
+//	//cout << inha(1.9, 2) << endl;	// 15.9 출력
+//	
+//
+//}
+
+/*
+[캡쳐블록](매개변수 리스트) -> 리턴타입 {함수 바디};
+함수는 익명함수
+이름없는 함수
+[캡쳐블록] {함수바디} 꼭 필요!!!
+*/
