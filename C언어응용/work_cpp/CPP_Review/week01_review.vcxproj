@@ -138,6 +138,7 @@
     <ClCompile Include="memo.cpp" />
     <ClCompile Include="pointerArray.cpp" />
     <ClCompile Include="pointerNConst.cpp" />
+    <ClCompile Include="reference.cpp" />
     <ClCompile Include="Struct.cpp" />
     <ClCompile Include="Struct2.cpp" />
     <ClCompile Include="sturct_LinkedList.cpp" />
