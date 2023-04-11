@@ -135,6 +135,7 @@
     <ClCompile Include="doublePointer.cpp" />
     <ClCompile Include="enum1.cpp" />
     <ClCompile Include="enum2.cpp" />
+    <ClCompile Include="Function.cpp" />
     <ClCompile Include="memo.cpp" />
     <ClCompile Include="pointerArray.cpp" />
     <ClCompile Include="pointerNConst.cpp" />
