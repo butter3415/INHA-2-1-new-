@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArrayNPointer.cpp" />
+    <ClCompile Include="DynamicArray.cpp" />
     <ClCompile Include="file_Circle_main.cpp" />
     <ClCompile Include="Class_Circle_2.cpp" />
     <ClCompile Include="Class_Circle_1.cpp" />
