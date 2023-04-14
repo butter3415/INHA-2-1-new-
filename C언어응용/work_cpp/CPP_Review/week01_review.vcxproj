@@ -140,6 +140,8 @@
     <ClCompile Include="Function.cpp" />
     <ClCompile Include="Function2.cpp" />
     <ClCompile Include="Lambda.cpp" />
+    <ClCompile Include="Lambda2.cpp" />
+    <ClCompile Include="LambdaFunction1.cpp" />
     <ClCompile Include="memo.cpp" />
     <ClCompile Include="pointerArray.cpp" />
     <ClCompile Include="pointerNConst.cpp" />
